@@ -2,7 +2,7 @@
 
 **AI Solution Developer at [JIS Automation](https://www.jis.fi)** · Finance student at **Hanken School of Economics**
 
-I build practical AI systems: LLM-powered agents, automation pipelines and full-stack apps that people actually use. With a background in both software and finance, I focus on turning AI into working tools that solve real business problems.
+I build practical AI systems: LLM-powered agents, automation pipelines and full-stack apps that people actually use. With a background in finance, I focus on turning AI into working tools that solve real business problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexkekkonen-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkekkonen/)
 [![Email](https://img.shields.io/badge/Email-alexkekkonen67%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alexkekkonen67@gmail.com)
@@ -41,4 +41,4 @@ Scheduled inventory and sales tracking for a reselling side business. It scrapes
 
 ---
 
-📫 Open to opportunities in **AI / LLM engineering**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexkekkonen/).
+📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexkekkonen/).
