@@ -19,6 +19,14 @@ I build practical AI systems: LLM-powered agents, automation pipelines and full-
 
 ## 🚀 Featured projects
 
+### Otso: a personal AI assistant *(private, code available on request)*
+<img src="assets/otso-banner.png" alt="Otso's mark, a bear's head drawn in green aurora rays under an aurora curtain, beside the wordmark OTSO" width="100%">
+
+My own AI assistant, named after the bear of Finnish folklore. It runs around the clock on a small Azure server and talks to me in Telegram and a private web app, by text or by voice. It plans my day from my calendar, Moodle and email, logs expenses, answers in Finnish or English, and asks before doing anything it can't undo. It's built to be cheap: a fast Claude model by default, the larger one only for hard reasoning, and it keeps working when the API credit runs out.
+
+**Otso Markets**, its portfolio analyst, is a second Telegram bot. It follows my holdings across three brokers every hour, explains big moves with sources, scores each holding nightly with four statistical models, keeps a paper portfolio to grade its own calls, and writes a weekly review.
+`Python` `Anthropic API` `Telegram Bot API` `Azure` `Tailscale` `SQLite` `Deepgram`
+
 ### [World Cup 2026 Predictions](https://github.com/kekkonenalex/worldcup-2026) · [live site](https://www.wc2026-predictions.site/)
 A full-stack prediction game with group-stage scores, knockout brackets, awards, private leagues and live leaderboards. It includes a custom scoring engine, automated match sync from the football-data.org API, and email reminders.
 `Next.js 16` `TypeScript` `Supabase` `Tailwind` `Vercel` `Resend`
